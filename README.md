@@ -12,36 +12,35 @@
 
 ### Covid NJ Dataset
 
-![Mamba STPP COVIDNJ0](notebooks/video/gifs/mamba_covidnj0_gt.gif)
-
-![Mamba STPP COVIDNJ1](notebooks/video/gifs/mamba_covidnj1_gt.gif)
-
-![Mamba STPP COVIDNJ2](notebooks/video/gifs/mamba_covidnj2_gt.gif)
+<p align="center">
+  <img src="notebooks/video/gifs/mamba_covidnj0_gt.gif" alt="Mamba STPP COVIDNJ0" width="32%" />
+  <img src="notebooks/video/gifs/mamba_covidnj1_gt.gif" alt="Mamba STPP COVIDNJ1" width="32%" />
+  <img src="notebooks/video/gifs/mamba_covidnj2_gt.gif" alt="Mamba STPP COVIDNJ2" width="32%" />
+</p>
 
 ### Japanese Earthquake Dataset
 
-![Mamba STPP Japanese Earthquake DS0](notebooks/video/gifs/mamba_jpds0_gt.gif)
-
-![Mamba STPP Japanese Earthquake DS1](notebooks/video/gifs/mamba_jpds1_gt.gif)
-
-![Mamba STPP Japanese Earthquake DS2](notebooks/video/gifs/mamba_jpds2_gt.gif)
+<p align="center">
+  <img src="notebooks/video/gifs/mamba_jpds0_gt.gif" alt="Mamba STPP Japanese Earthquake DS0" width="32%" />
+  <img src="notebooks/video/gifs/mamba_jpds1_gt.gif" alt="Mamba STPP Japanese Earthquake DS1" width="32%" />
+  <img src="notebooks/video/gifs/mamba_jpds2_gt.gif" alt="Mamba STPP Japanese Earthquake DS2" width="32%" />
+</p>
 
 ### Spatio Temporal Hawkes Process
 
-![Mamba STPP Hawkes Process DS0](notebooks/video/gifs/mamba_sthp0_gt.gif)
-
-![Mamba STPP Hawkes Process DS1](notebooks/video/gifs/mamba_sthp1_gt.gif)
-
-![Mamba STPP Hawkes Process DS2](notebooks/video/gifs/mamba_sthp2_gt.gif)
+<p align="center">
+  <img src="notebooks/video/gifs/mamba_sthp0_gt.gif" alt="Mamba STPP Hawkes Process DS0" width="32%" />
+  <img src="notebooks/video/gifs/mamba_sthp1_gt.gif" alt="Mamba STPP Hawkes Process DS1" width="32%" />
+  <img src="notebooks/video/gifs/mamba_sthp2_gt.gif" alt="Mamba STPP Hawkes Process DS2" width="32%" />
+</p>
 
 
 ### Spatio Temporal Self-Correcting Process
-
-![Mamba STPP Self-Correcting Process DS0](notebooks/video/gifs/mamba_stscp0_gt.gif)
-
-![Mamba STPP Self-Correcting Process DS1](notebooks/video/gifs/mamba_stscp1_gt.gif)
-
-![Mamba STPP Self-Correcting Process DS2](notebooks/video/gifs/mamba_stscp2_gt.gif)
+<p align="center">
+  <img src="notebooks/video/gifs/mamba_stscp0_gt.gif" alt="Mamba STPP Self-Correcting Process DS0" width="32%" />
+  <img src="notebooks/video/gifs/mamba_stscp1_gt.gif" alt="Mamba STPP Self-Correcting Process DS1" width="32%" />
+  <img src="notebooks/video/gifs/mamba_stscp2_gt.gif" alt="Mamba STPP Self-Correcting Process DS2" width="32%" />
+</p>
 
 ## Neural Point Process for Learning Spatiotemporal Event Dynamics (DeepSTPP) with Mamba Application
 
